@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julee&family=Roboto:wght@100;500&display=swap');
+main{
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    background-color: #717171;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header {
+    background-color: #333;
+    margin: 0;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.search {
+    display: flex;
+    align-items: center;
+}
+  
+.sign {
+    display: flex;
+    
+} 
+
+.sign-up{
+    display: flex;
+    padding-right:10px ;
+}
+
+.copyright {
+    display: flex;
+    align-items: center;
+}
+
+h6 {
+    color: white;
+}
